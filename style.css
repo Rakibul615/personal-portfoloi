@@ -1,0 +1,75 @@
+h1{
+    font-size: 50px;
+    
+}
+.text-color{
+    color: orange;
+}
+.flex-content{
+    display:flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 100%;
+    padding: 10px;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(tomato, orange);
+    border-radius: 15px;
+    color: whitesmoke;
+    font-weight: 700px;
+}
+.background{
+    background-image: url(images/bg.png);
+}
+.card {
+    margin: 20px;
+    padding: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);   
+    width: 30%;
+    border-radius: 5px;
+  }
+  .container {
+    padding: 2px 16px;
+  }
+  .flex-card{
+      display: flex;
+      margin-left: 3%;
+      padding: 2%;
+  }
+  .text-title{
+      text-align: center;
+      width: 40%;
+      margin-left: 30%;
+  }
+  .card img{
+      width:100%;
+  }
+  .social-content{
+      display: flex;
+      padding: 5%;
+      text-align: center;
+      
+  }
+  .icon img{
+      width: 7%;
+      box-shadow: 0 28px 16px -26px rgba(0, 0, 0); 
+      padding: 20px;
+
+
+  }
+  .footer-content{
+      background-color: black;
+      color: white;
+      text-align: center;
+      height: 200px;
+      padding-top: 5%;
+  }
+  #footer-text{
+      color:rosybrown;
+  }
